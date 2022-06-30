@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 
 .bg-green {
@@ -8,10 +8,18 @@
 
 .text-title {
     font-family: 'Joan', serif;
+    font-size: 1.2em;
 }
 
+.text-title-h3 {
+    font-family: 'Joan', serif;
+    font-size: 1.6em;
+}
+
+
 .text-p {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4em;
 }
 
 .red-width {
