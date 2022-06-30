@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+
+.bg-green {
+    background-color: #2f3e46;
+}
+
+.text-title {
+    font-family: 'Joan', serif;
+}
+
+.text-p {
+    font-family: 'Oswald', sans-serif;
+}
+
+.red-width {
+    width: 32px;
+    height: auto;
+}
